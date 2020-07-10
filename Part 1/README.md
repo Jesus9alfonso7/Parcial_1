@@ -3,5 +3,5 @@ cd Parcial_1/
 cd 'Part 1'
 touch README.md
 git add –all
-git commit -m “Accessibility for index.html and a new README.md file”
+git commit -m "Accessibility for index.html and a new README.md file"
 git push -u origin master
